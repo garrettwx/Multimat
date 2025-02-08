@@ -39,9 +39,16 @@ Free of charge to use, with partial release of original code. And, Multimat welc
 ## Developer list (to be added)
 Dr. Xuan Wang (xw97259@gmail.com) - providing all the original codes
 
+
 Dr. Yiming Lu - technical consultant
 
-If you have questions and suggestions, please do not hesitate to reply to the developer. 
+If you have questions and suggestions, please do not hesitate to communicate with the developer. 
+
+
+####
+Affiliations:
+1. Nanjing Normal University, School of Chemistry and Materials Science, Nanjing
+2. Tohoku University, WPI-AIMR
 
 ###
 ## Components
