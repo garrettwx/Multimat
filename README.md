@@ -1,4 +1,7 @@
 # Welcome to Multimat code 
+
+# <img src="./Multimat.jpg" width="300" style="display: block; margin: auto;">
+
 A python code to perform pre-and-post treatment of computational data from ab-initio simulation packages.
 
 ## Brief introduction
