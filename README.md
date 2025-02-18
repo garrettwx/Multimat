@@ -159,6 +159,7 @@ Each component part of Multimat is relatively independent, to make the debug pro
 
 2025.2.8: the appearance of Multimat into github
 
+2025.2.18: Fix the bug of package for Bader's AIM
 ...
 
 
