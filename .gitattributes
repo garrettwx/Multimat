@@ -2,4 +2,3 @@ D:360MoveDataUsersgarreDesktopMultimatMultimat.exe filter=lfs diff=lfs merge=lfs
 D:360MoveDataUsersgarreDesktopMultimatsetting.params filter=lfs diff=lfs merge=lfs -text
 Multimat.exe filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
-setting.params filter=lfs diff=lfs merge=lfs -text
