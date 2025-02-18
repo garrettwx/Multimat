@@ -105,6 +105,9 @@ A large function in Multimat to perform post-treatments for CP2K (https://www.cp
 
 Multimat provides the interaction with Multiwfn code developed by Dr. Tian Lu, so if you use the relevant functions of Multiwfn, please make sure the citation.
 
+Download the Multiwfn code: http://sobereva.com/multiwfn/
+
+
 The most common functions have been packaged into Multimat, including:
 
 - replace the opted structure into the initial .inp file for continuing calculation
