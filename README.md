@@ -146,6 +146,10 @@ Each component part of Multimat is relatively independent, to make the debug pro
 
 
 ####
+### setting.params
+The setting.params file presents the external definitions. This file should be put at the same directory of Multimat.exe
+
+####
 ## History
 2024.5.6: the creation of main_plate.py
 
