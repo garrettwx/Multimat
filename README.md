@@ -71,7 +71,7 @@ As the name states, the main_plate.py is the main page of Multimat, which contai
 - create the cp2k .inp file (cp2k_inp_kit.py), a large part of function in Multimat, keep developing
 - cp2k post-treatment functions (cp2k_post_treatment.py), a large part of function in Multimat, keep developing
 - quantum espresso functions are now almost blank to be developed, or if others will come to promote the development, so in (dev) and the developer do not package
-- catalysis part (catkit.py), a large part of catalysis function, keep developing
+- surface pourbaix part, a large part of catalysis function, keep developing
 
 ####
 ### CP2K_inp_kit.py
@@ -135,8 +135,8 @@ The most common functions have been packaged into Multimat, including:
 (to be further developed)
 
 ####
-### catkit.py
-A large function in Multimat to perform catalytic process.
+### surface_pourbaix.py
+A large function in Multimat to perform surface Pourbaix diagram construction.
 
 Now supports the calculation surface Pourbaix diagram as the function between delta_G and U_RHE (and U_SHE)
 
@@ -167,6 +167,16 @@ The setting.params file presents the external definitions. This file should be p
 2025.2.8: the appearance of Multimat into github
 
 2025.2.18: Fix the bug of package for Bader's AIM
+
+2025.4.20: Remove pybader owing to the bug in package
+
+2025.5.2: replace the catkit.py with surface_pourbaix module
+
+2025.5.15: add the calculation with efield parameters in surface_pourbaix module
+
+2025.5.20: the continuous development of module for qe
+
+2025.6.5: add some simple functions for vasp with convenience in main_plate.py
 ...
 
 
