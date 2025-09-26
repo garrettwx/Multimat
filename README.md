@@ -42,8 +42,8 @@ If you have questions and suggestions, please do not hesitate to communicate wit
 
 ####
 Affiliations:
-1. Nanjing Normal University, School of Chemistry and Materials Science, Nanjing, China
-2. Tohoku University, WPI-AIMR, Sendai, Japan
+Nanjing Normal University, School of Chemistry and Materials Science, Nanjing, China
+
 
 ###
 ## Components
