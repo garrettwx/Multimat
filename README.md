@@ -31,7 +31,7 @@ The developer will gradually provide the guidance about how to use Multimat. But
 
 Beginning time of development: 5/6/2024.
 
-Free of charge to use, with partial release of original code. And, Multimat welcomes all the developers, because the developer is very busy (Now only two members). The paper for Multimat is still a long time to go, perhaps.
+Free of charge to use, with partial release of original code. And, Multimat welcomes all the developers, because the developer is very busy. The paper for Multimat is still a long time to go, perhaps.
 
 ###
 ## Developer list
