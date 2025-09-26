@@ -22,11 +22,6 @@ This code is purely written in python, with assistances of the following package
    ##### https://phonopy.github.io/phonopy/
    #####
 
-5. pybader
-   ##### Utility: to calculate the AIM charge by Bader
-   ##### https: https://github.com/adam-kerrigan/pybader
-   #####
-
    ...to be further added
    
 ## Description
@@ -39,11 +34,8 @@ Beginning time of development: 5/6/2024.
 Free of charge to use, with partial release of original code. And, Multimat welcomes all the developers, because the developer is very busy (Now only two members). The paper for Multimat is still a long time to go, perhaps.
 
 ###
-## Developer list (to be added)
-Dr. Xuan Wang (xw97259@gmail.com) - providing all the original codes
-
-
-Dr. Yiming Lu - technical consultant
+## Developer list
+Dr. Xuan Wang (xwgarrett@gmail.com) 
 
 If you have questions and suggestions, please do not hesitate to communicate with the developer. 
 
