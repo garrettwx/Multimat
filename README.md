@@ -4,6 +4,8 @@
 
 A python code to perform pre-and-post treatment of computational data from ab-initio simulation packages.
 
+To prevent the bad boys, please send the email to the developer for the use of code, see the developers' list
+
 ## Brief introduction
 This code is purely written in python, with assistances of the following packages:
 
@@ -34,8 +36,9 @@ Beginning time of development: 5/6/2024.
 Free of charge to use, with partial release of original code. And, Multimat welcomes all the developers, because the developer is very busy. The paper for Multimat is still a long time to go, perhaps.
 
 ###
-## Developer list
-Dr. Xuan Wang (xwgarrett@gmail.com) 
+## Developers' list
+Dr. Xuan Wang (wangxuan@njnu.edu.cn) , ORCID: https://orcid.org/0009-0003-2482-7010, google scholar: https://scholar.google.com/citations?hl=zh-CN&user=YEClyiwAAAAJ
+Dr. Tingyu Lu (tingyu.lu.e7@tohoku.ac.jp)
 
 If you have questions and suggestions, please do not hesitate to communicate with the developer. 
 
