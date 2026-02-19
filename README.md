@@ -37,7 +37,8 @@ Free of charge to use, with partial release of original code. And, Multimat welc
 
 ###
 ## Developers' list
-Dr. Xuan Wang (wangxuan@njnu.edu.cn) , ORCID: https://orcid.org/0009-0003-2482-7010, google scholar: https://scholar.google.com/citations?hl=zh-CN&user=YEClyiwAAAAJ
+Dr. Xuan Wang (wangxuan@njnu.edu.cn) , ORCID: https://orcid.org/0009-0003-2482-7010, google scholar: https://scholar.google.com/citations?hl=zh-CN&user=YEClyiwAAAAJ 
+
 Dr. Tingyu Lu (tingyu.lu.e7@tohoku.ac.jp)
 
 If you have questions and suggestions, please do not hesitate to communicate with the developer. 
